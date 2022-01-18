@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "test-geolocation",
+    "slug": "test-geolocation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "test-geolocation"
+}
